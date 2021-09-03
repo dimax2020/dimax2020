@@ -1,8 +1,8 @@
 ### Hi there 👋
-## Check my codewars profile:
+#### Check my codewars profile:
 <p align="left">
     <a href="https://www.codewars.com/users/dimax2020" alt="Codewars">
-        <img src="https://www.codewars.com/users/dimax2020/badges/large" /></a>
+        <img src="https://www.codewars.com/users/dimax2020/badges/small" /></a>
 </p>
 <!--
 **dimax2020/dimax2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
