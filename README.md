@@ -1,4 +1,5 @@
 ### Hi there 👋
+## Check my codewars profile:
 <p align="left">
     <a href="https://www.codewars.com/users/dimax2020" alt="Codewars">
         <img src="https://www.codewars.com/users/dimax2020/badges/large" /></a>
